@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  padding: 15px;
+  border-radius: 20px;
+  width: 220px;
+  border: 2.5px solid black;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 10px;
+}
+
+.name {
+  font-size: 20px;
+}
+
+.hours {
+  font-size: 18px;
+}
+
+i {
+  font-size: 28px;
+}
